@@ -1,6 +1,6 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/339064645002461194)](https://discord.com/users/339064645002461194)
 
-class Stfu {
+```js class Stfu {
     constructor(options) {
         this.name = "Alp",
         this.sex = "Man",
@@ -11,6 +11,6 @@ class Stfu {
         this.age = "20",
         this.discord.tag = "stfuchavo."
     };
-}
+}```
 
 module.exports = Stfu
