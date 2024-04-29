@@ -12,6 +12,7 @@ class Stfu {
         this.age = "20",
         this.discord.tag = "stfuchavo."
     };
-}```
+}
 
 module.exports = Stfu
+```
