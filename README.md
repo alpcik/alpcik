@@ -1,6 +1,6 @@
 # Hi I am Stfu.
 ![profile count](https://komarev.com/ghpvc/?username=alpcik&color=blue)&nbsp;
-[![GitHub Stats](https://img.shields.io/github/followers/cartelfx?label=follow&style=social)](https://github.com/alpcik)&nbsp;
+[![GitHub Stats](https://img.shields.io/github/followers/alpcik?label=follow&style=social)](https://github.com/alpcik)&nbsp;
 <a href="https://instagram.com/klautaltidore"><img src="https://img.shields.io/badge/@klautaltidore-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
 ## Langauges I Know:
