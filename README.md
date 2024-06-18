@@ -4,7 +4,7 @@
 <a href="https://instagram.com/klautaltidore"><img src="https://img.shields.io/badge/@klautaltidore-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
 ## Langauges I Know:
-[![My Skills](https://skillicons.dev/icons?i=discord,html,css,js,ts,php,mysql,mongo,unity,dotnet,cs,visualstudio,vscode,unrealenginetheme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=discord,html,css,js,ts,php,mysql,mongo,unity,dotnet,cs,visualstudio,vscode,unrealengine,theme=dark)](https://skillicons.dev)
 
 
 <h3 align="left">:bar_chart: GitHub Stats:</h3>
